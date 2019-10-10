@@ -1,4 +1,9 @@
 html {
   font-family: 'PT Sans', sans-serif;
   font-family: 'PT Serif', serif;
+  background-color: #c9b5ab;
+}
+
+img {
+  width: 100%;
 }

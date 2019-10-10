@@ -7,3 +7,9 @@ html {
 img {
   width: 100%;
 }
+
+h1 {
+  font-family: 'PT Sans';
+  font-weight: bold;
+  font-size: 1.25rem;
+}

@@ -37,6 +37,14 @@ h1 {
   color: #3f1622;
 }
 
+h2 {
+  text-decoration: none;
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-family: "PT Sans", sans-serif;
+  color: #3f1622;
+}
+
 figcaption {
   font-style: italic;
   font-size: 1rem;
@@ -53,6 +61,15 @@ dl {
 
 dt {
   font-style: italic;
+}
+
+dd {
+  font-weight: bold;
+}
+
+data {
+  font-weight: normal;
+  text-align: right;
 }
 
 ul {
@@ -86,13 +103,6 @@ cite {
 
 i {
   font-style: italic;
-}
-
-h2 {
-  text-decoration: none;
-  font-size: 1.25rem;
-  font-family: sans-serif;
-  color: #3f1622;
 }
 
 p {

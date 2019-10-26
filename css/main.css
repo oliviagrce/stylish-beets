@@ -11,14 +11,18 @@ a {
   text-decoration: none;
   color: #8f2440;
   font-weight: bold;
-  font-size: 1.120rem;
-  list-style-type: georgian;
+  font-size: 1.12rem;
   border: none;
+}
+
+.nav {
+  list-style-type: none;
 }
 
 a:hover {
   text-decoration: underline;
   color: #3f1622;
+  list-style-type: none;
 }
 
 img {
@@ -39,12 +43,16 @@ figcaption {
   text-align: center;
 }
 
-ol {
-  list-style-type: none;
+.albino {
+  list-style-type: lower-greek;
 }
 
 dl {
   list-style-type: none;
+}
+
+h2 dl dt {
+  font-style: italic;
 }
 
 ul {

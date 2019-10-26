@@ -1,15 +1,69 @@
 html {
-  font-family: 'PT Sans', sans-serif;
-  font-family: 'PT Serif', serif;
+  font-family: "PT Sans", sans-serif;
+  font-family: "PT Serif", serif;
   background-color: #c9b5ab;
+  line-height: 1.5;
+}
+
+nav a {
+  list-style: none;
+  font-family: "PT Sans", sans-serif;
+  text-decoration: none;
+  color: #8f2440;
+  font-weight: bold;
+  font-size: 1.125rem;
+  list-style-type: georgian;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 img {
   width: 100%;
+  margin-bottom: auto;
 }
 
 h1 {
-  font-family: 'PT Sans';
+  font-family: "PT Sans";
   font-weight: bold;
+  font-size: 1.5rem;
+  color: #3f1622;
+}
+
+figcaption {
+  font-style: italic;
+  font-size: .8rem;
+  text-align: center;
+}
+
+.germ {
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+
+blockquote p {
+  background: #c9b5ab;
+  font-family: "PT Serif";
+  font-style: italic;
+  font-size: 1.5rem;
+}
+
+h2 {
+  text-decoration: none;
   font-size: 1.25rem;
+  font-family: sans-serif;
+  color: #3f1622;
+}
+
+.nut {
+
+}
+
+p {
+  font-weight: normal;
+}
+
+small a {
+  color: #8f2440;
 }

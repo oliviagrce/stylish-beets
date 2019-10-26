@@ -73,10 +73,6 @@ data {
   text-align: right;
 }
 
-ul {
-  list-style-type: none;
-}
-
 .germ {
   font-size: 1.125rem;
   font-weight: 500;

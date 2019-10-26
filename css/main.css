@@ -11,7 +11,7 @@ a {
   text-decoration: none;
   color: #8f2440;
   font-weight: bold;
-  font-size: 1.125rem;
+  font-size: 1.120rem;
   list-style-type: georgian;
   border: none;
 }
@@ -40,6 +40,14 @@ figcaption {
 }
 
 ol {
+  list-style-type: none;
+}
+
+dl {
+  list-style-type: none;
+}
+
+ul {
   list-style-type: none;
 }
 

@@ -11,7 +11,7 @@ a {
   text-decoration: none;
   color: #8f2440;
   font-weight: bold;
-  font-size: 1.12rem;
+  font-size: 1.125rem;
   border: none;
 }
 
@@ -64,11 +64,19 @@ ul {
   font-weight: bold;
 }
 
-blockquote p {
+.pratt {
   background: #c9b5ab;
   font-family: "PT Serif";
   font-style: italic;
   font-size: 1.5rem;
+}
+
+.pratt .beets {
+  font-style: none;
+}
+
+cite {
+  font-size: 1.125rem;
 }
 
 h2 {

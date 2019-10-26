@@ -65,6 +65,7 @@ dt {
 
 dd {
   font-weight: bold;
+  text-align: left;
 }
 
 data {
@@ -107,6 +108,11 @@ i {
 
 p {
   font-weight: normal;
+}
+
+ul {
+  list-style-type: circle;
+  font-size: .8rem;
 }
 
 small a {

@@ -39,6 +39,10 @@ figcaption {
   text-align: center;
 }
 
+ol {
+  list-style-type: none;
+}
+
 .germ {
   font-size: 1.125rem;
   font-weight: bold;
@@ -56,10 +60,6 @@ h2 {
   font-size: 1.25rem;
   font-family: sans-serif;
   color: #3f1622;
-}
-
-.nut {
-
 }
 
 p {

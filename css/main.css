@@ -51,7 +51,7 @@ dl {
   list-style-type: none;
 }
 
-h2 dl dt {
+dt {
   font-style: italic;
 }
 
@@ -61,7 +61,7 @@ ul {
 
 .germ {
   font-size: 1.125rem;
-  font-weight: bold;
+  font-weight: 500;
 }
 
 .pratt {
@@ -71,12 +71,21 @@ ul {
   font-size: 1.5rem;
 }
 
-.pratt .beets {
-  font-style: none;
+.beets {
+  font-style: italic;
+  font-weight: normal;
 }
 
 cite {
-  font-size: 1.125rem;
+  font-style: italic;
+}
+
+.chrisquote {
+  font-size: .8rem;
+}
+
+i {
+  font-style: italic;
 }
 
 h2 {
